@@ -88,10 +88,12 @@ export class AppComponent {
 ```html
 <div class="container">
   <button (click)="exportHtml()">Export</button>
-  <email-editor
+  <lib-dice-template-editor
+    id="1"
     (loaded)="editorLoaded($event)"
+    [minHeight]="minHeight"
     (ready)="editorReady($event)"
-  ></email-editor>
+  ></lib-dice-template-editor>
 </div>
 ```
 
