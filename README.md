@@ -1,7 +1,7 @@
 # Angular Email Editor
 
 **Updated for Angular 13 by @let-userName-Brian**
- ([Source Code](https://github.com/unlayer/angular-email-editor/tree/master/src))
+ ([Source Code](https://github.com/let-userName-Brian/dice-template-editor))
 
 The excellent drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as a [Angular](https://angular.io/) _wrapper component_. This is the most powerful and developer friendly visual email builder for your app.
 
